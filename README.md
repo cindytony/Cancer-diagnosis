@@ -1,4 +1,4 @@
-## HOPE-4-CANCER
+## Cancer Diagnosis
 
 ### 1. Business Problem
 #### 1.1. Description
